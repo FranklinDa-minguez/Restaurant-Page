@@ -1,8 +1,7 @@
-# React + Vite
+# Restaurant-Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first project using in react using js, html, and tailwind
+I learned how to use pass and use props, use the map function and use tailwind to make the website look a little better
+More projects on the way that will show my advancedments in web dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src = "public\Restaurant Page.png" alt = "website screenshot">
